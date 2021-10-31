@@ -7,23 +7,10 @@ export default class Resume extends Component {
 <div class="row education">
 
    <div class="three columns header-col">
-      <h1><span>Education</span></h1>
+      <h1><span>Employment</span></h1>
    </div>
 
    <div class="nine columns main-col">
-
-      <div class="row item">
-         <div class="twelve columns">
-            <h3>Telkom University</h3>
-            <p class="info">Bachelor in Computer Science <span>&bull;</span> <em class="date">August 2018</em></p>
-            <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-            ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-            Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-            </p>
-         </div>
-      </div>
 
       <div class="row item">
          <div class="twelve columns">
@@ -50,10 +37,6 @@ export default class Resume extends Component {
             <p class="info">Software Engineer ( Back-End) <span>&bull;</span> <em class="date">Mar 2020 — Apr 2020</em></p>
             <p>
             Provide Service API ( REST ) using rails 6 with ruby.
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-            ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-            Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
             </p>
          </div>
       </div> 
@@ -63,10 +46,6 @@ export default class Resume extends Component {
             <p class="info">Java Programmer <span>&bull;</span> <em class="date">May 2020 — Present</em></p>
             <p>
             Provide service and application for the client (Telkomsel)  using Java as Back-end an JavaScriptpt for front-end.
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-            ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-            Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
             </p>
          </div>
       </div> 

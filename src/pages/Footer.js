@@ -12,12 +12,6 @@ export default class Footer extends Component {
                     <li><a href="https://www.linkedin.com/in/alimnuriqra/"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://www.instagram.com/alimnuriqra/"><i class="fa fa-instagram"></i></a></li>
                 </ul>
-
-                <ul class="copyright">
-                    <li>&copy; Copyright 2014 CeeVee</li>
-                    <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>   
-                </ul>
-
                 </div>
                     <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
                 </div>
